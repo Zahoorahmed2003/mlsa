@@ -27087,14 +27087,14 @@ var _stylesCss = require("./styles.css");
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
-    name: "Raja Naveed",
+    name: "Zahoor Ahmed",
     title: "Web Designer & Content Creator",
-    email: "Rajanaveed@gmail.com",
-    gitHub: "RajaNaveed",
-    instagram: "Raja Naveed",
-    linkedIn: "Raja",
-    twitter: "Raja",
-    youTube: "Raja"
+    email: "zasoomro2003@gmail.com",
+    gitHub: "Zahoorahmed2003",
+    instagram: "Zahoor Ahmed",
+    linkedIn: "Zahoor Ahmed",
+    twitter: "Zahoor Ahmed",
+    youTube: "Zahoor Ahmed"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
